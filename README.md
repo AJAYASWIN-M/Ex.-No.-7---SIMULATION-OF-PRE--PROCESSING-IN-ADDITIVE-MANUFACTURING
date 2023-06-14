@@ -1,5 +1,5 @@
 # Ex. No. 7 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 30/05/2023
+### DATE: 
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -46,8 +46,8 @@
 ## Output:
 ![OUTPUT](output7.png)
 
-### Name: SATHISH R
-### Register Number: 212222100048
+### Name: AJAY ASWIN M
+### Register Number: 212222240005
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
